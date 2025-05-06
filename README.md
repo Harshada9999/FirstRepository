@@ -1,2 +1,3 @@
 # FirstRepository
-This is my frist Repository
+This is my frist Git Repository
+Author- Harshada Awari
